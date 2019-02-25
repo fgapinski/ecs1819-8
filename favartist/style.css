@@ -1,0 +1,40 @@
+img
+{
+    width:500px
+    
+}
+body
+{
+
+    background-color:#124578;
+    color:#00ff00;
+    font-family: cursive;
+}
+div {
+  border: 25px #91274f;
+  padding: 25px;
+  text-align:center;
+  border-style: solid;
+  border-radius:10000000px;
+}
+div2{
+    color:#00ff00;
+}
+div3{
+    text-align:center
+}
+div4{
+    color:#00ff00;
+    border-style: solid;
+    border: pink;
+     border: 25px #00ff00;
+}
+table{
+    border-style: solid;
+    width:100;
+    text-align: center;
+}
+td 
+{
+  border: 1px solid black;
+}
