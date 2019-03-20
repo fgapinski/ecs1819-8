@@ -6,3 +6,13 @@ div
 {
     text-align: center
 }
+img{
+  height: 15%;
+  width: 25%;
+}
+#con
+{
+  font-size: 40px;
+  font-family: serif;
+  background-color: #235689;
+}
